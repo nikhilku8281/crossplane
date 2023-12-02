@@ -3,7 +3,7 @@ kind: ProviderConfig
 metadata:
   name: default
 spec:
-  projectID: 
+  projectID: directed-beacon-403804
   credentials:
     source: Secret
     secretRef:
